@@ -13,7 +13,8 @@ I'm a recent B.Tech graduate from SRM Institute of Science and Technology (KTR) 
 - Incoming role at Deloitte (Starting soon!)
 
 ## Projects
-- [Simple Calculator](Link): A mini project where I built a basic calculator using HTML, CSS, and JavaScript.
+- [Simple Calculator](https://github.com/piyushmaurya07/myCalculator): A mini project where I built a basic calculator using HTML, CSS, and JavaScript.
+- [Rock Paper Scissors](https://github.com/piyushmaurya07/Rock_Paper_Scissor): here i built a fun liltle game AKA rock,paper,scissors using HTML, CSS, and JavaScript.
 
 ## Contact Me
 - Email: pkm03maurya@gmail.com
